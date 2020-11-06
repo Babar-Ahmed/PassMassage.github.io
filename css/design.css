@@ -1,0 +1,26 @@
+:root{
+cyan:#01B6E1;
+lightyelow:#E9D758;
+
+}
+body{
+	font-family: "Charm",'cursive';
+	
+	background: #0B1E3F;
+
+}
+h1{
+	background-color:#E6E6E6;
+}
+.feedback{
+	display: none;
+}
+.container{
+	color:white;
+	position: absolute;
+	left: 25%;
+	top:30%;
+}
+.show{
+	display: block;
+}
